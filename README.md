@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+I'm Jiajia Yu, I want to be a excellent coder!!!
